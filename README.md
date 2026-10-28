@@ -14,6 +14,4 @@ I work primarily in Visual Studio 2026 and SQL Server Management Studio, with ex
 
 My path into computing started early with the Tandy Model I and Apple II. Those machines taught me the fundamentals, and the work has continued ever since—through different roles, tools, and platforms—always centered on solving real problems with code.
 
----
-
-*Professional GitHub profile. Links and project details will be added as sites and repositories come online.*
+---
